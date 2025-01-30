@@ -1944,6 +1944,7 @@ section,
 -------------------------------*/
 .aumentoscore {
   text-align: center;
+  padding-bottom: 30px;
 }
 
 .aumentoscore .subtitle {
@@ -1955,8 +1956,4 @@ section,
 .aumentoscore .subtitle h3 {
   font-size: 24px;
   font-weight: 700;
-}
-
-.aumentoscore ul {
-  list-style: none;
 }
