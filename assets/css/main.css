@@ -1937,3 +1937,26 @@ section,
 .starter-section {
   /* Add your styles here */
 }
+
+
+/*----------------------------------
+#AUmento Score Section
+-------------------------------*/
+.aumentoscore {
+  text-align: center;
+}
+
+.aumentoscore .subtitle {
+  margin-bottom: 10px;
+  padding-bottom: 10px;
+  position: relative;
+}
+
+.aumentoscore .subtitle h3 {
+  font-size: 24px;
+  font-weight: 700;
+}
+
+.aumentoscore ul {
+  list-style: none;
+}
