@@ -1020,6 +1020,7 @@ section,
 --------------------------------------------------------------*/
 .about {
   padding-bottom: 20px;
+  text-align: center;
 }
 
 .about .content .who-we-are {
